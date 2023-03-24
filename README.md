@@ -15,3 +15,6 @@ To start the client, change into its directory and run
   `npm i`
 followed by 
   `npm start`
+
+Final notes:
+If give more time, pagination would be implemented in the form of infinite scrolling. In addition, UI improvements would also be made to improve the general look of the site.
